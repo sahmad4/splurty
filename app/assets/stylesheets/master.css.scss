@@ -30,6 +30,8 @@ padding-top: 26px;
 }
 .links a{
   color:black;
+  ont-family: 'quicksanddash', sans-serif;
+  font-weight: bold;
   font-size:25px;
   border-bottom: 1px solid #dfdfdf;
 }
@@ -38,4 +40,14 @@ header {
 }
 hr {
   clear:both;
+}
+h1{
+  font-family: 'quicksanddash', sans-serif;
+  font-weight:bold;
+  font-size:48px;
+
+}
+h2 {
+  font-family: 'quicksandbold', sans-serif;
+
 }
