@@ -26,6 +26,7 @@ gem 'rails_12factor', group: :production
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 gem 'bootstrap-sass', '~> 3.3.5.1'
+gem'simple_form'
 gem 'sprockets', '2.11.0'
 gem 'sass-rails'
 
